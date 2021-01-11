@@ -50,5 +50,5 @@
 [pull]
   rebase = false
 [user]
-	email = 'hanna.r.borg@gmail.com'
-	name = 'Hanna Borg
+	email = hanna.r.borg@gmail.com
+	name = Hanna Borg
